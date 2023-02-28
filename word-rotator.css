@@ -1,4 +1,6 @@
-
+.cd-headline {
+  font-family:recoleta;
+}
 .cd-headline .cd-words-wrapper {
   display: inline-block;
   perspective: 300px;
